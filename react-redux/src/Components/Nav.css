@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: lightgray;
+  margin: 0;
+}
+
+nav ul a {
+  margin-left: 40px;
+}
